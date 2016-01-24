@@ -12,3 +12,5 @@
 * Font Awesome Icons
 * Button Classes & Icons
 * Responsive Media Queries
+
+Note: LESS files processed using Crunch on MAC
